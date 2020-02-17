@@ -37,7 +37,7 @@ header, main, footer {
 }
 
 header, .form, main {
-    margin-bottom: 0 auto 70px;
+    margin: 0 auto 70px;
     width: 90%;
     max-width: 500px;
 }
